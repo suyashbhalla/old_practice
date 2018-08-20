@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>company
+	<staff localname="s">staff1
+		<firstname single="true">Andrew</firstname>
+		<lastname>Musk</lastname>
+	</staff>
+	<staff>staff2
+		<firstname>Elon</firstname>
+		<lastname>Musk</lastname>
+	</staff>
+	<staff>staff3
+		<firstname>Stefen</firstname>
+		<lastname>hawkings</lastname>
+	</staff>
+</company>
